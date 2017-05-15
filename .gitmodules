@@ -1,0 +1,3 @@
+[submodule "android-ndk-exemplos"]
+	path = android-ndk-exemplos
+	url = git@github.com:lopesivan/android-ndk-exemplos.git
